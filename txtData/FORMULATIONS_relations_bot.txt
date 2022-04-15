@@ -1,0 +1,164 @@
+r_associated
+avoir un rapport avec ; être en rapport avec ; être associé à ; être lié à ; être en relation avec
+
+r_pos
+_ avoir comme nature grammaticale _
+
+r_color
+être de couleur _ ; avoir comme couleur _
+
+r_isa
+être un type de _ ; être une sorte de _ ; être une espèce de _ ; être
+
+r_instr
+être fait à l'aide de ; être fait avec ; 
+
+r_instr-1
+servir à ; permettre de ; être utilisé pour
+
+r_variante
+_ être une variante de _
+
+r_syn
+_ être un synonyme de _ ; _ avoir comme synonyme _ ; _ avoir le même sens que _
+
+r_patient-1
+pouvoir se faire ; être patient de _ ; être l'objet de _
+
+r_patient
+avoir comme objet ; avoir comme patient ; être fait à
+
+r_carac
+avoir comme caractéristique _ ; être _
+
+r_carac-1
+être caractéristique de ; être une caractéristique de ; caractériser ; être typique de ; être un trait typique de ; être propre à
+
+r_agent-1
+pouvoir ; être capable de ; être susceptible de ; avoir la possibilité de
+
+r_agent
+être réalisé par ; être fait par ; être effectué par
+
+r_equiv
+équivaloir strictement à ; être strictement équivalent à
+
+r_has_part
+avoir ; disposer de ; avoir comme partie ; comporter
+
+r_lemma
+_ avoir comme lemme _
+
+r_has_instance
+_ avoir comme instance _
+
+r_is_instance_of
+être une instance de _ ; être un exemplaire unique de _
+
+r_meaning/glose
+avoir comme glose ; avoir comme sens ; avoir comme sens possible ; avoir comme signification ; faire référence à
+
+r_raff_sem
+avoir comme raffinement
+
+r_require
+nécessiter ; requérir ; supposer d'avoir
+
+r_domain
+relever de ; relève du domaine de ; appartient au domaine de
+
+r_has_antimagn
+être plus intense que
+
+r_has_magn
+être moins intense que
+
+r_product_of
+être produit par ; être le produit de
+
+r_causatif
+avoir comme cause ; être dû à ; être provoqué par ; être le résultat de ; avoir pour origine ; être causé par ; être une conséquence de
+
+r_conseq
+avoir comme conséquence ; susciter ; avoir pour effet ; entraîner ; provoquer ; avoir comme résultat ; être à l'origine de ; déboucher sur
+
+r_telic_role
+servir à ; avoir pour fonction de ; avoir comme but de ; avoir comme objectif ; avoir comme objet de ; avoir comme but ; avoir comme objectif ; avoir comme rôle de ; avoir comme fonction de
+
+r_mater>object
+être la matière pour ; être la matière de ; être la matériau de ; être la matériau pour ; rentre dans la composition de
+
+r_object>mater
+être fait de _ ; être fait en _ ; être composé de _ ; être en _ ; avoir comme matière _
+
+r_anto
+être le contraire de ; avoir comme contraire
+
+r_lieu
+être sur ; avoir pour lieu
+
+r_lieu-1
+être un lieu pour ; être un endroit pour
+
+r_action_lieu
+avoir lieu dans
+
+r_lieu_action
+être un lieu où on peut ; être un endroit pour
+
+r_cible
+avoir comme cible
+
+r_symptomes
+avoir comme symptôme
+
+r_against
+être opposé à ; agir contre ; empêcher ; faire obstacle à
+
+r_prop
+avoir comme propriété _
+
+r_manner
+pouvoir se faire
+
+r_manner-1
+être une manière possible de ; être une manière courante de ; être une façon possible de ; être une façon courante de
+
+r_holo
+faire partie de ; être une partie de ; être un élément de 
+
+r_own
+posséder ; être propriétaire de 
+
+r_own-1
+être possédé par ; appartenir à ; être la propriété de
+
+r_is_concerned_by
+être concerné par
+
+r_make
+produire
+
+r_implication
+_ impliquer _
+
+r_agentif_role
+avoir pour rôle agentif ; être le résultat de l'action de
+
+r_accomp
+se trouver souvent avec ; se trouver avec ; venir avec ; accompagner généralement ; aller bien avec
+
+r_make_use_of
+utiliser ; se servir de ; faire usage de ; employer
+
+r_can_eat
+se nourrir de _ ; manger
+
+r_time
+avoir lieu durant ; avoir lieu pendant ; se passer pendant
+
+r_predecesseur-time
+venir après ; se passer après ; avoir lieu après ; se faire après ; intervenir après ; succéder à ; être précédé par
+
+r_successeur-time
+venir avant ; précéder ; avoir lieu avant ; se faire avant ; être suivi de

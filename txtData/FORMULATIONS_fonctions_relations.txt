@@ -1,0 +1,164 @@
+r_pos
+a comme nature grammaticale ; a pour nature grammaticale
+
+r_has_instance
+a pour instance ; a comme instance
+
+r_is_instance_of
+est une instance de ; est un exemplaire unique de
+
+r_meaning/glose
+a pour glose ; peut avoir comme sens ; a comme sens possible ; peut avoir comme signification ; a comme signification possible ; a comme glose  ; peut faire référence à
+
+r_raff_sem
+a pour raffinement ; a comme raffinement
+
+r_instr
+peut être fait à l'aide de ; peut être fait à l'aide d' ; peut être fait avec ; à l'aide de ; à l'aide d' ; avec un ; avec une ; avec des ; avec du ; peut se faire avec des ; peut se faire avec un ; peut se faire avec une
+
+r_require
+nécessite un ; nécessite une ; nécessite du ; nécessite de la ; nécessite de l' ; nécessite des ; requiert un ; requiert une ; requiert du ; requiert de la ; requiert de l' ; requiert des ; requiert ; suppose d'avoir un ; suppose d'avoir une ; suppose d'avoir du ; suppose d'avoir de la ; suppose d'avoir des ; exige du ; exige de la ; exige des ; exige un ; exige une
+
+r_associated
+a un rapport avec ; est en rapport avec ; en rapport avec ; est associé à ; est associée à ; sont associés à ; sont associées à , est lié à ; est liée à ; sont liés à ; sont liées à ; est en relation avec ; sont en relation avec ; en relation avec
+
+r_domain
+relève de la ; relève du ; relève du domaine de ; relève du domaine du ; relève du domaine des ; appartient au domaine de la ; appartient au domaine du ; appartient au domaine des ; est du domaine de la ; est du domaine du ; est du domaine des ; relève des
+
+r_has_antimagn
+est plus intense que
+
+r_has_magn
+est moins intense que
+
+r_product_of
+est produit par ; sont produits par ; sont produites par ; est produite par ; est produit par le ; sont produits par le ; sont produites par le ; est produite par le ; est produit par la ; sont produits par la ; sont produites par la ; est produite par la ; est produit par les ; sont produits par les ; sont produites par les ; est produite par les ; est le produit de la ; est le produit de ; est le produit du ; est le produit des
+
+r_color
+est de couleur ; a comme couleur ; a comme couleurs ; sont de couleur ; ont comme couleur ; ont comme couleurs ; a pour couleur ; ont pour couleurs ; à pour couleur
+
+r_causatif
+a comme cause ; a comme causes ; à comme cause ; à comme causes ; ont comme cause ; ont comme causes ; peut avoir comme cause ; peut avoir comme causes ; pourrait avoir comme cause ; pourrait avoir comme causes ; peuvent avoir comme cause ; peuvent avoir comme causes ; pourraient avoir comme cause ; pourraient avoir comme causes ; avoir comme cause ; avoir comme causes ; comme cause ; comme causes ; à cause de ; est dû à ; est due à ; est dû à la ; est dû au ; est dû aux ; sont dus à ; sont dus à la ; sont dus au ; sont dus aux ; sont dues au ; sont dues aux ; est provoqué par ; est provoquée par ; sont provoqués par ; sont provoquées par ; peut être le résultat de ; peuvent être le résultat de ; est le résultat de ; sont le résultat de ; a pour origine ; ont pour origine ; peut avoir pour origine ; peuvent avoir pour origine ; est causé par ; est causée par ; sont causés par ; sont causées par ; peut être causé par ; peuvent être causés par ; peut-être causée par ; peuvent être causées par ; est une conséquence de ; est une conséquence de la ; est une conséquence du ; est une conséquence des
+
+r_conseq
+a comme conséquence ; a comme conséquences ; à comme conséquence ; à comme conséquences ; ont comme conséquence ; ont comme conséquences ; peut avoir comme conséquence ; peut avoir comme conséquences ; pourrait avoir comme conséquence ; pourrait avoir comme conséquences ; peuvent avoir comme conséquence ; peuvent avoir comme conséquences ; pourraient avoir comme conséquence ; pourraient avoir comme conséquences ; pourra avoir comme conséquence ; pourront avoir comme conséquences ; va avoir comme conséquence ; avoir comme conséquence ; avoir comme conséquences ; comme conséquence ; comme conséquences ; conséquence de ; conséquences de ; conséquence d' ; conséquences d' ; conséquence ; conséquences ; peut susciter ; pourrait susciter ; conseq ; conséq ; r_conseq ; a pour effets ; a pour effet ; entraîne ; peut entraîner ; peuvent entraîner ; provoque ; provoquent ;  peut provoquer ; peuvent provoquer ; se traduit par ; se traduisent par ; a comme résultat ; a pour résultat ; ont comme résultat ; ont pour résultat ; est à l'origine de ; sont à l'origine de ; peut être à l'origine de ; peuvent être à l'origine de ; débouche sur ; débouchent sur
+
+r_isa
+est un type de ; est une sorte de ; est une espèce de ; est un type d' ; est une sorte d' ; est une espèce d' ; est une ; est un ; était une ; était un ; sont des ; est-il une ; est-il un ; était-il une ; était-il un ; sont-ils des ; est-elle une ; est-elle un ; était-elle une ; était-elle un ; sont-elles des ; et un type de ; et une sorte de ; et une espèce de ; et un ; et une ; un type de ; une sorte de ; une espèce de ; un type d' ; une sorte d' ; une espèce d' ; est une espèce d'
+
+r_telic_role
+sert à ; a pour fonction de ; a comme fonction de ; a pour but de ; a comme but de ; a pour but ; a comme but ; a pour objectif de ; a comme objectif de ; a pour objectif ; a comme objectif ; a pour objet de ; a comme objet de ; a pour objet ; a comme objet ; a pour rôle de ; a comme rôle de ; à pour but de ; à comme but de ; à pour but ; à comme but ; à pour objectif de ; à comme objectif de ; à pour objectif ; à comme objectif ; à pour objet de ; à comme objet de ; à pour objet ; à comme objet ; a pour role de ; a comme role de ; pour fonction de ; comme fonction de ; pour but de ; comme but de ; pour but ; comme but ; pour objectif de ; comme objectif de ; pour objectif ; comme objectif ; pour objet de ; comme objet de ; pour objet ; comme objet ; a pour fonction d' ; a comme fonction d' ; a pour but d' ; a comme but d' ; a pour objectif d' ; a comme objectif d' ; a pour objet d' ; a comme objet d' ; pour fonction d' ; comme fonction d' ; pour but d' ; comme but d' ; pour objectif d' ; comme objectif d' ; pour objet d' ; comme objet d' ; peut avoir pour but de ; sert à ; sert a ; servent à ; servent a ; rôle télique ; est un instrument pour ; est un objet pour ; est un chose pour ; a comme rôle d' ; a pour rôle d' ; est destiné à ; sont destinés à ; à comme role d' ; à comme role d' ; est fait pour ; est faite pour ; sont faits pour ; sont faites pour
+
+r_instr-1
+peut servir à ; peut servir a ; peuvent servir à ; peuvent servir a ; permet de ; permet d' ; peut être utilisé pour ; peut être utilisée pour
+
+r_object>mater
+est fait de ; est fait en ; est composé de ; est faite de ; est faite en ; est composée de ; est en ; peut être en ; sont en ; était en ; étaient en ; et en ; peut avoir comme matière ; peuvent avoir comme matière ; avoir comme matière ; a comme matière ; à comme matière ; ont comme matière ; comme matière ; se compose de ; se compose d' ; contient du ; contient de la ; contient de l' ; contient des ; peut contenir du ; peut contenir de la ; peut contenir de l' ; peut contenir des ; comporte du ; peut comporter du
+
+r_mater>object
+est la matière pour ; est la matière de ; est le matériau de ; est le matériau pour ; est un matériau pour ; rentre dans la composition de ; rentre dans la composition du ; rentre dans la composition de la
+
+r_variante
+variante de ; est une variante de
+
+r_syn
+est un synonyme de ; est synonyme de ; être un synonyme de ; être synonyme de ; a comme synonyme ; à comme synonyme ; comme synonyme ; a le même sens que ; et un synonyme de ; et synonyme de ; est un synonyme ; et un synonyme ; être un synonyme ; est synonyme ; et synonyme ; être synonyme ; est synonymes de ; et synonymes de ; est synonymes d' ; et synonymes d' ; est synonymes ; et synonymes ; sont synonymes ; sont synonymes de ; sont synonymes d' ; syno ; synonyme
+
+r_anto
+est le contraire de ; a comme contraire ; a pour contraire ; et le contraire de ; est le contraire d' ; et le contraire d'
+
+r_patient-1
+peut se faire ; pourrait se faire ; pourrais se faire ; peuvent se faire ; pourraient se faire ; patient de ; peut être l'objet de ; peut être le patient de
+
+r_patient
+peut avoir comme objet ; peut avoir comme patient ; peut être fait à ; peut être fait à un ; peut être fait à une ; peut être fait au ; peut être fait aux
+
+r_lieu
+est sur le ; est sur la ; est sur un ; est sur une ; se trouve dans le lieu ; peut se trouver dans le lieu ; peut se trouver dans ; peut se trouver à ; peut se trouver sur ; a pour lieu ; a comme lieu ; pour lieu ; comme lieu ; se trouve dans un ; se trouve sur un ; se trouve dans une ; se trouve sur une ; se trouve dans le ; se trouve dans la ; se trouve dans ; se trouve sur ; se trouve en ; peut se trouver en ; dans le lieu ; sur le lieu ; dans lieu ; sur lieu ; endroit ; peut se trouver à la ; peut se trouver au ; peut se trouver aux ; peut se trouver dans le ; peut se trouver dans la ; peut se trouver dans les ; peut se trouver sur le ; peut se trouver sur la ; peut se trouver sur les ; peut se trouver sur ; peut se trouver dans ; peut se trouver sous ; peut se trouver chez ; peut se trouver en ; peut se trouver à un ; peut se trouver à une ; peut se trouver dans un ; peut se trouver dans une ; peut se trouver dans des ; peut se trouver sur un ; peut se trouver sur une ; peut se trouver sur des ; peut être dans ; peut être sur ; peut être sous ; peut avoir pour lieu ; peuvent avoir pour lieu
+
+r_lieu-1
+est un lieu pour un ; est un lieu pour une ; est un lieu pour des ; est un lieu pour la ; est un lieu pour le ; est un endroit pour un ; est un endroit pour une ; est un endroit pour des ; est un endroit pour la ; est un endroit pour le
+
+r_action_lieu
+se déroule dans le lieu ; a lieu dans ; se passe dans ; peut se dérouler dans le lieu ; peut se dérouler dans ; peut se dérouler à ; peut se dérouler sur ; se dérouler dans le lieu ; se dérouler dans ; se dérouler à ; se dérouler sur ; se déroule dans le lieu ; se déroule dans ; se déroule à ; se déroule sur ; peut avoir lieu dans ; peut se passer dans ; avoir lieu dans ; se passer dans ; peut se faire dans ; peut se faire sur ; avoir se faire contre ; a lieu sur ; peut avoir lieu sur ; se passe sur ; peut se passer sur ; se fait dans ; peut se faire dans ; peut avoir lieu sur ; peut se faire contre
+
+r_lieu_action
+est un lieu où on peut ; est un lieu ou on peut ; est un lieu pour ; est un endroit pour ; est un endroit où on peut
+
+r_cible
+peut avoir comme cible ; peut avoir pour cible 
+
+r_symptomes
+a comme symptôme ; a comme symptômes ; a pour symptôme ; a pour symptômes ; à comme symptôme ; à comme symptômes ; à pour symptôme ; à pour symptômes ; pour symptôme ; pour symptômes ; comme symptôme ; comme symptômes 
+
+r_against
+peut s'opposer à ; s'oppose à ; s'opposent à ; peut s'opposer au ; s'oppose au ; s'opposent au ; peut s'opposer aux ; s'oppose aux ; s'opposent aux ; peut s'opposer a ; s'oppose a ; s'opposent a ; peut s'opposer ; peut agir contre ; peut combattre ; empêche ; s'oppose à la ; s'oppose au ; s'oppose aux ; fait obstacle à ; fait obstacle au ; fait obstacle aux ; font obstacle à ; font obstacle au ; font obstacle aux ; agit contre ; agit contre le ; agit contre la ; agit contre les ; peut agir contre ; peut agir contre le ; peut agir contre la ; peut agir contre les ; peut agir contre un ; peut agir contre une ; peut agir contre des ; agit contre un ; agit contre une ; agit contre des ; peuvent agir contre ; peuvent agir contre un ; peuvent agir contre une ; peuvent agir contre des ; agissent contre ; agissent contre les ; agissent contre un ; agissent contre une ; agissent contre des ; agissent contre le ; agissent contre la
+
+r_carac
+a comme caractéristique ; a comme caractéristiques ; caractéristiques ; caractéristique ; est ; était ; est-elle ; est-il ; sont-ils ; sont-elles ; c'est ; c'était ; sont ; peut être ; peuvent être ; serait ; seraient ; pourrait être ; pourraient être ; peut avoir comme caractéristique ; peuvent avoir comme caractéristique ; avoir comme caractéristique 
+
+r_carac-1
+est caractéristique de ; est caractéristique de la ; est caractéristique des ; est caractéristique du ; est caractéristique d'un ; est caractéristique d'une ; est une caractéristique de ; est une caractéristique de la ; est une caractéristique du ; est une caractéristique des ; caractérise ; caractérise le ; caractérise la ; caractérise les ; caractérise un ; caractérise une ; caractérise des ; est un trait typique de ; est typique de ; est typique de la ; est typique du ; est typique des ; est un trait typique de la ; est un trait typique du ; est propre au ; est propre à la ; est propre aux
+
+r_prop
+a comme propriété ; a pour propriété
+
+r_agent-1
+peut-il ; peut-elle ; pourrait-il ; pourrait-elle ; peuvent-ils ; peuvent-elles ; peut ; pourrait ; pourra ; peuvent ; est capable de ; sont capables de ; capable de ; capables de ; est capable d' ; sont capables d' ; capable d' ; capables d' ; agent de ; est susceptible de ; est-il susceptible de ; est-elle susceptible de ; a la possibilité de ; a-t-elle la possibilité de ; a-t-il la possibilité de
+
+r_agent
+peut être réalisé par ; peut être fait par ; être réalisé par ; être fait par ; réalisé par ; fait par ; peut être effectué par
+
+r_manner
+se fait ; peut être fait
+
+r_manner-1
+est une manière possible de ; est une manière courante de ; est une façon possible de ; est une façon courante de ; est une manière éventuelle de 
+
+r_equiv
+équivaut strictement à ; est strictement équivalent à ; est équivalent à
+
+r_holo
+fait partie de ; fait partie du ; fait partie d' ; est une partie de ; est un élément de
+
+r_has_part
+peut avoir un ; peut avoir une ; peut avoir des ; a un ; a une ; a des ; dispose de ; dispose d' ; a comme partie des ; a comme partie un ; a comme partie une ; a comme partie ; a comme parties ; a ; avait ; avaient ; ont ; comporte un ; comporte une ; comporte des ; peut comporter un ; peut comporter une ; peut comporter des
+
+r_own
+peut posséder ; peut posséder un ; peut posséder une ; peut posséder des ; peut posséder du ; peut posséder de la ; peut posséder de l' ; possède un ; possède une ; possède des ; possède du ; possède de la ; possède de l' ; est propriétaire de ; est propriétaire du ; est propriétaire de la ; est propriétaire des ; est propriétaire d'un ; est propriétaire d'une ; peut être propriétaire de ; peut être propriétaire d'une ; peut être propriétaire d'un
+
+r_own-1
+est possédé par ; peut être possédé par ; pourrait être possédé par ; appartient à ; appartient à la ; appartient au ; appartient aux ; est la propriété de ; est la propriété du ; est la propriété de la ; est la propriété des 
+
+r_is_concerned_by
+est concerné par
+
+r_make
+peut produire ; peut produire un ; peut produire une ; peut produire des ; peut produire du ; peut produire de la ; peut produire de l' ; peuvent produire ; peuvent produire un ; peuvent produire une ; peuvent produire des ; peuvent produire du ; peuvent produire de la ; peuvent produire de l' ; produit des ; produit de la ; produit de l' ; produit du ; produisent des ; produisent de la ; produisent de l' ; produisent du 
+
+r_implication
+peut impliquer ; peut impliquer de ; pourrait impliquer ; pourrait impliquer de ; implique
+
+r_agentif_role
+a pour rôle agentif ; est le résultat de l'action de
+
+r_accomp
+se trouve souvent avec ; se trouve avec ; vient avec ; accompagne ; peut accompagner ; accompagne généralement ; accompagne souvent ; va bien avec
+
+r_make_use_of
+peut utiliser du ; peut utiliser un ; peut utiliser une ; peut utiliser des ; peut utiliser de la ; peut utiliser de l' ; utilise des ; utilise de la ; utilise de l' ; se sert de ; peut se servir de ; fait usage de ; peut faire usage de ; emploie ; emploie du ; emploie de la ; emploie des
+
+r_can_eat
+peut se nourrir de ; peut se nourrir d' ; peuvent se nourrir de ; peuvent se nourrir d' ; se nourrit de ; se nourrit d' ; se nourrir de ; mange ; peut manger 
+
+r_lemma
+a pour lemme ; a comme lemme 
+
+r_time
+a lieu durant ; a lieu pendant ; avoir lieu pendant ; avoir lieu durant ; peut avoir lieu pendant ; peut avoir lieu durant ; pourrait avoir lieu pendant ; pourrait avoir lieu durant ; peut se passer pendant ; peut se passer durant ; se passe pendant ; se passe durant
+
+r_predecesseur-time
+vient après ; se passe après ; a lieu après ; se fait après ; intervient après ; succède à ; est précédé par
+
+r_successeur-time
+vient avant ; précède ; a lieu avant ; se passe avant ; se fait avant ; se fait avant de ; est suivi par

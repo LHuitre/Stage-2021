@@ -1,0 +1,289 @@
+r_associated
+quelles idées pour ; à quoi fait penser ; à quoi peut faire penser ; à quoi vous fait penser ; quelles idées peut-on associer à ; qu'évoque ; que peut évoquer
+
+r_domain
+quel domaine pour ; de quel domaine relève ; de quel domaine relèvent ; quel domaine est associé à ; quel domaine est associé aux ; quelle thématique est associée à ; quelle thématique est associée aux ; de quelle thématique relève ; de quelle thématique relèvent ; à quel domaine appartient ; à quel domaine appartiennent
+
+r_syn
+quels syn pour ; quels synonymes pour ; quels sont les synonymes de ; qu'est-ce qui est synonyme de
+
+r_isa
+quels sont les génériques de ; quels sont les hyperonymes de ; quels génériques pour ; quels hyperonymes pour
+
+r_anto
+quels sont les contraires de ; quel est le contraire de ; quels sont les antonymes de ; quels contraires pour ; quels antonymes pour
+
+r_hypo
+quels sont les spécifiques de ; quels sont les hyponymes de ; quels spécifiques pour ; quels hyponymes pour ; quels peuvent être des exemples de ; quels sont les exemples de ; quels peuvent être les types de ; quels peuvent être les sortes de ; quels sont les différents représentants de 
+
+r_has_part
+quelles parties de ; quelles parties pour ; quels éléments font partie de ; quels éléments composent ; quels éléments font partie de ; quels constituants pour ; quelles parties composent ; de quelles parties se compose ; de quels éléments se compose ; qu'est-ce qui fait partie de ; quels méronymes pour ; quels sont les méronymes de
+
+r_holo
+de quoi X est un élément ; de quoi X est un constituant ; de quoi X fait partie ; quels sont les holonymes pour ; qu'est-ce qui représente un tout pour
+
+r_agent
+par qui peut être faite l'action de ; qui peut ; qu'est-ce qui peut
+
+r_patient
+que peut-on ; qui peut-on
+
+r_lieu
+où se trouve ; ou se trouve ; où se trouvent ; ou se trouve ; où peut-on trouver ; où trouve-t-on ; dans quels lieux peut-on trouver ; dans quels lieux trouve-t-on ; où peut-on voir ; où peut-on voir un ; où peut-on voir une ; où peut-on voir des
+
+r_instr
+avec quoi peut-on ; que peut-on utiliser pour ; de quoi peut-on se servir pour ; quel instrument permet de ; avec quoi est-il possible de
+
+r_carac
+quelles caractéristiques pour ; quelles carac pour ; quelles caractéristiques présente ; quels traits caractérisent ; comment est ; comment peut être ; quels traits sont typiques de ; quelles caractéristiques sont typiques pour ; quelles sont les caractéristiques de
+
+r_has_magn
+qu'est-ce qui est plus intense que
+
+r_has_antimagn
+qu'est-ce qui est moins intense que
+
+r_family
+quels sont les termes dérivés morphologiquement de
+
+r_carac-1
+qui possède la caractéristique ; qu'est-ce qui possède la caractéristique ; qui présente la caractéristique ; qu'est-ce qui présente la caractéristique ; qui a comme caractéristique ; qu'est ce qui a comme caractéristique ; qui a pour caractéristique ; qu'est-ce qui a comme caractéristique ; qui peut avoir comme caractéristique ; qu'est-ce qui peut avoir comme caractéristique ; qui peut avoir pour caractéristique ; qu'est-ce qui peut avoir pour caractéristique ; qui est ; qui peut être ; qu'est-ce qui est ; qu'est-ce qui peut être 
+
+r_agent-1
+que peut faire 
+
+r_instr-1
+que peut-on faire avec ; que peut-on faire au moyen de ; pour quelle action peut être utilisé
+
+r_patient-1
+que peut-on faire à ; que peut-on faire a ; que peut-on faire au ; que peut-on faire aux ; que peut-on faire à la
+
+r_domain-1
+qu'est-ce qui relève de ; qu'est-ce qui relève du domaine de ; qu'est-ce qui relève du domaine de la ; qu'est-ce qui relève du domaine des ; qu'est-ce qui a pour thématique la ; qu'est-ce qui a pour thématique le ; qu'est-ce qui a pour thématique les ; qu'est-ce qui appartient au domaine des ; qu'est-ce qui appartient au domaine du ; qu'est-ce qui appartient au domaine de là
+
+r_lieu-1
+que trouve-t-on dans ; que trouve-t-on dans le ; que trouve-t-on dans la ; que trouve-t-on dans un ; que trouve-t-on dans une ; que trouve-t-on dans les ; que trouve-t-on dans des ; que trouve-t-on au ; que trouve-t-on aux ; que peut-on trouver dans ; que peut-on trouver dans le ; que peut-on trouver dans la ; que peut-on trouver dans les ; que peut-on trouver aux ; que peut-on trouver sur ; que peut-on trouver sur le ; que peut-on trouver sur la ; que peut-on trouver sur une ; que peut-on trouver sur un ; que peut-on trouver sur des ; que peut-on trouver sur les
+
+r_lieu_action
+que peut-on faire dans ; que peut on faire dans le ; que peut-on faire dans la
+
+r_action_lieu
+où peut-on ; où est-il possible de ; dans quel lieu peut-on ; dans quel lieu est-il possible de
+
+r_sentiment
+quels sentiments suscite ; quels sentiments suscite le ; quels sentiments suscite la ; quels sentiments suscitent les ; quels sentiments suscite un ; quels sentiments suscite une ; quels sentiments sont lié à ; quels sentiments sont liés à la ; quels sentiments sont liés au ; quels sentiments sont liés aux ; quels sentiments peuvent-être liés à ; quels sentiments peuvent-être liés à la ; quels sentiments peuvent-être liés aux ; quels sentiments peuvent-être liés au ; quels sentiments peut susciter ; quels sentiments peut susciter la ; quels sentiments peut susciter le ; quels sentiments peut susciter les ; quels sentiments provoque ; quels sentiments provoque le ; quels sentiments provoque la ; quels sentiments provoquent les ; quels sentiments provoque un ; quels sentiments provoque une ; quels sentiments provoquent des ; quels sentiments peut provoquer ; quels sentiments peut provoquer le ; quels sentiments peut provoquer la ; quels sentiments peuvent provoquer les ; quels sentiments peut provoquer un ; quels sentiments peut provoquer une ; quels sentiments peuvent provoquer des
+
+r_manner
+comment peut-on ; de quelle manière peut-on ; de quelle façon peut-on
+
+r_meaning/glose
+quelles significations a ; quelles significations peut avoir ; quels sens peut avoir ; quels sont les différents sens de ; quels peuvent être les différents sens de ; quelles significations possibles pour ; quelles significations pour
+
+r_telic_role
+à quoi sert ; à quoi sert un ; à quoi sert une ; à quoi sert le ; à quoi sert la ; pour quel usage est conçu ; pour quel usage est conçu le ; pour quel usage est conçue la ; pour quel usage est conçu un ; pour quel usage est conçue une
+
+r_agentif_role
+quelle action donne naissance à ; quelle action donne naissance au ; quelle action donne naissance aux ; qu'est-ce qui donne naissance à ; qu'est-ce qui donne naissance au ; qu'est-ce qui donne naissance au
+
+r_verbe-action
+quelle est l'action qui dérive de ; quelle action dérive de ; quelle est l'action qui correspond à ; quelle action correspond à
+
+r_action-verbe
+quelle verbe correspond à ; quelle verbe est dérivé de
+
+r_conseq
+quelles sont les conséquences possibles de ; quelles sont les conséquences possibles de la ; quelles sont les conséquences possibles du ; quelles sont les conséquences possibles d'un ; quelles sont les conséquences possibles d'une ; quelles sont les conséquences possibles des ; quelles conséquences peut avoir ; quelles conséquences peuvent avoir
+
+r_causatif
+quelles sont les causes de ; quelles sont les causes du ; quelles sont les causes de la ; quelles sont les causes des ; quelles sont les causes possibles de ; quelles sont les causes possibles du ; quelles sont les causes possibles de la ; quelles sont les causes possibles des ; quelles causes pour 
+
+r_adj-verbe
+quel adjectif correspond au verbe 
+
+r_verbe-adj
+quel verbe correspond à l'adjectif
+
+r_time
+à quel moment a lieu ; à quel moment se passe ; à quel moment se déroule quand se passe ; quand à lieu ; quand se déroule ; quel est le moment pour 
+
+r_object>mater
+en quoi est ; en quelle matière est ; en quel matériau est ; en quel matériau est conçu ; quelle est la matière de ; quelle est la matière pour ; quel est le matériau pour
+
+r_mater>object
+qu'est-ce qui peut être en ; qu'est-ce qui est fabriqué en ; qu'est-ce qui est constitué de
+
+r_successeur-time
+qu'est ce qui suit ; qu'est ce qui suit temporellement ; qu'est-ce qui a lieu après ; qu'est ce qui vient après ; qu'est-ce qui se déroule après
+
+r_predecesseur-time
+qu'est-ce qui précède ; qu'est-ce qui vient avant ; qu'est-ce qui précède temporellement ; qu'est-ce qui a lieu avant ; qu'est-ce qui se déroule avant ; qu'est-ce qui vient avant
+
+r_make
+que peut produire
+
+r_product_of
+par quoi est produit ; par qui est produit
+
+r_against
+à quoi s'oppose activement ; qu'empêche ; que combat 
+
+r_against-1
+par quoi est empêché ; par quoi est combattu ; qu'est-ce qui s'oppose activement à
+
+r_implication
+qu'implique logiquement ; qu'est-ce qui est logiquement impliqué par 
+
+r_quantificateur
+quels sont les quantificateur de ; quels quantificateurs pour
+
+r_masc
+quel est l'équivalent masculin de
+
+r_fem
+quel est l'équivalent féminin de
+
+r_equiv
+qu'est-ce qui est strictement équivalent à
+
+r_manner-1
+qu'est-ce qui peut être fait ; que peut-on faire ; que peut-on réaliser ; qu'est-ce qui peut être effectué ; qu'est-ce qui peut être réalisé
+
+r_has_instance
+quelles sont les instances de ; quels sont les représentants uniques de ; quels sont les exemples de ; quels sont les exemplaires uniques de
+
+r_verb_real
+qui réalise l'action de
+
+r_set>item
+quel élément compose ; quel est l'élément qui compose ; quel élément est constitutif de ; quel élément est constitutif d'une ; quel élément est constitutif du ; quel élément est constitutif de la ; quel est l'élément qui forme
+
+r_item>set
+quel ensemble est formé par ; quel ensemble est formé par ; quel ensemble est composé par
+
+r_processus>agent
+qui est l'agent du processus de ; qui réalise le processus de ; qui effectue le processus de
+
+r_is_smaller_than
+qu'est-ce qui est physiquement plus gros que
+
+r_is_bigger_than
+qu'est-ce qui est physiquement plus petit que
+
+r_accomp
+qu'est-ce qui accompagne souvent ; qu'est-ce qui va souvent avec ; qu'est-ce qui vient souvent avec ; qu'est-ce qui va bien avec ; qu'est-ce qu'on trouve souvent avec
+
+r_processus>patient
+sur quoi peut s'appliquer le processus de ; que peut avoir comme patient le processus de
+
+r_cohypo
+quels sont les co-hyponymes de 
+
+r_der_morpho
+quels termes dérivent morphologiquement de ; quels sont les dérivés morphologiques de
+
+r_has_auteur
+qui est l'auteur de ; qui est l'auteur de la ; qui est l'auteur d'
+
+r_has_personnage
+quels sont les personnages de ; qui y a-t-il comme personnages dans ; qui trouve-t-on comme personnages dans
+
+r_can_eat
+que mange ; de quoi se nourrit ; de quoi se constitue l'alimentation d'un ; de quoi se constitue l'alimentation du ; de quoi se constitue l'alimentation d'une ; de quoi se constitue l'alimentation de la ; de quoi se constitue l'alimentation des
+
+r_has_actors
+quels acteurs jouent dans ; qui joue dans ; quels sont les acteurs de ; qui y a-t-il comme acteurs dans
+
+r_deplac_mode
+quel est le mode de déplacement de ; quel est le mode de déplacement de la ; quel est le mode de déplacement du
+
+r_has_interpret
+quels sont les interprètes de
+
+r_color
+quelle est la couleur de ; quelles sont les couleurs de ; de quelle couleur est le ; de quelles couleurs peut être le ; de quelles couleurs peut être la ; de quelles couleurs peut être un ; de quelles couleurs peut être une ; de quelles couleurs peuvent être les ; de quelles couleurs peuvent être des
+
+r_cible
+quelle est la cible de ; quelles sont les cibles de ; quelle est la cible pour ; quelle sont les cibles possibles de ; quelles sont les cibles possibles pour 
+
+r_symptomes
+quels sont les symptômes de ; quels sont les symptômes possibles de ; quels sont les symptômes possibles pour ; par quels symptômes peut se manifester le ; par quels symptômes peut se manifester la ; par quels symptômes peut se manifester un ; par quels symptômes peut se manifester une
+
+r_predecesseur-space
+qu'est ce qui est situé avant ; qu'est-ce qui vient spatialement avant ; qu'est ce qui est placé avant
+
+r_successeur-space
+qu'est ce qui est situé près ; qu'est-ce qui vient spatialement après ; qu'est ce qui est placé après
+
+r_social_tie
+
+r_tributary
+
+r_sentiment-1
+qu'est ce qui suscite un sentiment de ; qu'est ce qui peut générer un sentiment de ; qu'est ce qui peut susciter de la ; qu'est ce qui peut susciter du 
+
+r_linked-with
+qu'est ce qui est physiquement relié à
+
+r_comparison
+
+r_but
+quel est le but de ; quel est le but de la ; quel est le but d'une ; quel est le but d'un 
+
+r_but-1
+qu'est ce qui a pour but de ; qu'est-ce qui peut avoir pour but de
+
+r-own
+que possède ; que peut posséder
+
+r_own-1
+qui possède ; par qui peut être possédé ; par qui est possédé ; qui peut posséder
+
+r_predecesseur-logic
+qu'est-ce qui peut précéder logiquement
+
+r_successeur-logic
+qu'est-ce qui peut suivre logiquement
+
+r_isa-incompatible
+quel autre générique est incompatible avec ; qu'est ce qui ne peut pas être aussi un
+
+r_incompatible
+qu'est-ce qui est incompatible avec ; qu'est ce qui ne va pas avec
+
+r_require
+que nécessite ; qu'est-ce qui est requis pour ; qu'est-ce qui est nécessaire à ; qu'est-ce qui est nécessaire à la ; qu'est-ce qui est nécessaire au ; qu'est-ce qui est nécessaire pour ; de quoi a-t-on besoin pour ; qu'est-ce qui est indispensable à ; qu'est-ce qui est indispensable à la ; qu'est-ce qui est indispensable au ; qu'est-ce qui est indispensable aux ; qu'est-ce qui est indispensable pour ; qu'est-ce qui est indispensable pour le ; qu'est-ce qui est indispensable pour la ; qu'est-ce qui est indispensable pour les 
+
+r_is_instance_of
+quels sont les génériques de ; quels sont les génériques possibles de ; quels sont les génériques pour ; quels sont les génériques possibles pour
+
+r_is_concerned_by
+par quoi peut être concerné
+
+r_compl_agent
+par qui peut être faite l'action de ; qui peut ; qu'est-ce qui peut
+
+r_beneficiaire
+à qui profite l'action de ; qui peut être bénéficiaire de l'action de ; à qui peut être faite l'action de ; qui peut concerner le fait de ; à qui peut profiter l'action de
+
+r_descend_de
+
+r_domain_subst
+
+r_prop
+quelles sont les propriétés typiques pour ; quelles sont les propriétés de ; quelles propriétés pour
+
+r_make_use_of
+
+r_is_used_by
+
+r_nomprop-adj
+quel adjectif correspond à ; quel adjectif correspond à la propriété
+
+r_adj-adv
+quel adverbe correspond à ; quel adverbe correspond à l'adjectif
+
+r_homophone
+quels sont les homophones de
+
+r_potential_confusion
+avec quoi peut-on confondre
